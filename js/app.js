@@ -68,7 +68,7 @@ function fixNavbarPaths() {
 
     if (logo) {
 
-        logo.src = "../assets/images/logo/logo.png";
+        logo.src = "../images/logo/logo.png";
 
     }
 
